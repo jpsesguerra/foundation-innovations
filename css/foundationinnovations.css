@@ -322,7 +322,7 @@ a:hover {
 }
 
 .hero-slide._2 {
-  background-image: url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/Dollarphotoclub_63733893_1_saenqb');
+  background-image: url('https://res.cloudinary.com/du0witbcr/image/upload/v1776535123/Dollarphotoclub_63733893_1_saenqb.jpg');
   background-position: 50%;
   background-size: cover;
 }
@@ -1397,7 +1397,7 @@ a:hover {
   color: var(--white);
   text-align: center;
   background-color: #ffffffc7;
-  background-image: linear-gradient(#0065a780, #0065a780), url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/sj_consultantsslider9_ywuhf0');
+  background-image: linear-gradient(#0065a780, #0065a780), url('https://res.cloudinary.com/du0witbcr/image/upload/v1776535123/sj_consultantsslider9_ywuhf0.jpg');
   background-position: 0 0, -14px 0;
   background-size: auto, cover;
   border-radius: 14px;
@@ -1637,7 +1637,7 @@ a:hover {
 }
 
 .fi-hero-section {
-  background-image: url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/khachik-simonian-269941-unsplash_chgpiz');
+  background-image: url('https://res.cloudinary.com/du0witbcr/image/upload/v1776535123/khachik-simonian-269941-unsplash_chgpiz.jpg');
   background-position: 50% 100%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2035,7 +2035,7 @@ a:hover {
 
 .benefits-section-3 {
   background-color: var(--white);
-  background-image: linear-gradient(100deg, #0000, #ffffffde 47%, #fff 69%), url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/volunteering_wm1rtf');
+  background-image: linear-gradient(100deg, #0000, #ffffffde 47%, #fff 69%), url('https://res.cloudinary.com/du0witbcr/image/upload/v1776535123/volunteering_wm1rtf.jpg');
   background-position: 0 0, 0%;
   background-repeat: repeat, no-repeat;
   background-size: auto, contain;
@@ -2398,7 +2398,7 @@ a:hover {
 }
 
 .fi-section {
-  background-image: url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/khachik-simonian-269941-unsplash_chgpiz');
+  background-image: url('https://res.cloudinary.com/du0witbcr/image/upload/v1776535123/khachik-simonian-269941-unsplash_chgpiz.jpg');
   background-position: 50%;
   background-size: cover;
   height: 500px;
@@ -3948,7 +3948,7 @@ html.w-mod-js [data-ix="dropdown-list"] {
   }
 
   .benefits-section-3 {
-    background-image: linear-gradient(#ffffffb8, #ffffffb8), url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/volunteering_wm1rtf');
+    background-image: linear-gradient(#ffffffb8, #ffffffb8), url('https://res.cloudinary.com/du0witbcr/image/upload/v1776535123/volunteering_wm1rtf.jpg');
     background-position: 0 0, 50% 0;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
