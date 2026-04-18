@@ -316,20 +316,20 @@ a:hover {
 }
 
 .hero-slide {
-  background-image: url('../images/famille_programmeaide.jpg');
+  background-image: url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/famille_programmeaide.jpg');
   background-position: 100%;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .hero-slide._2 {
-  background-image: url('../images/Dollarphotoclub_63733893_1.jpg');
+  background-image: url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/Dollarphotoclub_63733893_1.jpg');
   background-position: 50%;
   background-size: cover;
 }
 
 .hero-slide._3 {
-  background-image: url('../images/https___specials-images.forbesimg.com_dam_imageserve_979886222_960x0-1.png');
+  background-image: url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/https___specials-images.forbesimg.com_dam_imageserve_979886222_960x0-1.png');
   background-position: 50% 40%;
   background-size: cover;
   background-attachment: scroll;
@@ -390,7 +390,7 @@ a:hover {
 .footer {
   color: #fff;
   background-color: #2d3033;
-  background-image: url('../images/Footer-image.jpg');
+  background-image: url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/Footer-image.jpg');
   background-position: 50% 90%;
   list-style-type: decimal;
 }
@@ -496,7 +496,7 @@ a:hover {
 
 ._2-col-section-col-right {
   background-color: #d4d4d4;
-  background-image: url('../images/Footer-image.jpg');
+  background-image: url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/Footer-image.jpg');
   background-position: 50% 80%;
   background-size: cover;
   height: auto;
@@ -819,7 +819,7 @@ a:hover {
 }
 
 .image-section {
-  background-image: url('../images/Foto-3.jpg');
+  background-image: url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/Foto-3.jpg');
   background-position: 134px 0;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1254,7 +1254,7 @@ a:hover {
 .financialdiv {
   opacity: 1;
   background-color: #fff;
-  background-image: url('../images/Estate--Retirement.png');
+  background-image: url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/Estate--Retirement.png');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1262,7 +1262,7 @@ a:hover {
 }
 
 .financialdiv.tax {
-  background-image: url('../images/Finance--Tax-Blue.jpg');
+  background-image: url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/Finance--Tax-Blue.jpg');
   background-position: 100%;
   background-size: cover;
   height: 750px;
@@ -1403,7 +1403,7 @@ a:hover {
   color: var(--white);
   text-align: center;
   background-color: #ffffffc7;
-  background-image: linear-gradient(#0065a780, #0065a780), url('../images/sj_consultantsslider9.jpg');
+  background-image: linear-gradient(#0065a780, #0065a780), url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/sj_consultantsslider9.jpg');
   background-position: 0 0, -14px 0;
   background-size: auto, cover;
   border-radius: 14px;
@@ -1415,14 +1415,14 @@ a:hover {
 
 .serviceblock.er {
   background-color: #205ba8;
-  background-image: linear-gradient(#0065a780, #0065a780), url('../images/Dollarphotoclub_63733893.jpg');
+  background-image: linear-gradient(#0065a780, #0065a780), url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/Dollarphotoclub_63733893.jpg');
   background-position: 0 0, 0 -6px;
   background-size: auto, cover;
 }
 
 .serviceblock.res {
   background-color: #fff;
-  background-image: linear-gradient(#0065a780, #0065a780), url('../images/tax_planning.jpg');
+  background-image: linear-gradient(#0065a780, #0065a780), url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/tax_planning.jpg');
   background-position: 0 0, 0 0;
   background-size: auto, cover;
 }
@@ -1643,7 +1643,7 @@ a:hover {
 }
 
 .fi-hero-section {
-  background-image: url('../images/khachik-simonian-269941-unsplash.jpg');
+  background-image: url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/khachik-simonian-269941-unsplash.jpg');
   background-position: 50% 100%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1904,7 +1904,7 @@ a:hover {
 }
 
 .benefits-section {
-  background-image: linear-gradient(146deg, #0000, #ffffffde 65%), url('../images/kid-children-cancer-oncology-leukemia.jpg');
+  background-image: linear-gradient(146deg, #0000, #ffffffde 65%), url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/kid-children-cancer-oncology-leukemia.jpg');
   background-position: 0 0, 100% 0;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -1930,7 +1930,7 @@ a:hover {
 }
 
 .benefits-section-2 {
-  background-image: linear-gradient(200deg, #0000, var(--royal-blue) 86%), url('../images/https___specials-images.forbesimg.com_dam_imageserve_979886222_960x0-1.png');
+  background-image: linear-gradient(200deg, #0000, var(--royal-blue) 86%), url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/https___specials-images.forbesimg.com_dam_imageserve_979886222_960x0-1.png');
   background-position: 0 0, 0%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -2041,7 +2041,7 @@ a:hover {
 
 .benefits-section-3 {
   background-color: var(--white);
-  background-image: linear-gradient(100deg, #0000, #ffffffde 47%, #fff 69%), url('../images/volunteering.jpg');
+  background-image: linear-gradient(100deg, #0000, #ffffffde 47%, #fff 69%), url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/volunteering.jpg');
   background-position: 0 0, 0%;
   background-repeat: repeat, no-repeat;
   background-size: auto, contain;
@@ -2331,11 +2331,11 @@ a:hover {
 }
 
 .scenario-image._2 {
-  background-image: url('../images/Terry-Fox-greeting-man-Credit-Gail-Harveycropped-e1468977409661.jpg');
+  background-image: url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/Terry-Fox-greeting-man-Credit-Gail-Harveycropped-e1468977409661.jpg');
 }
 
 .scenario-image._3 {
-  background-image: url('../images/t-tithe-plate.jpg');
+  background-image: url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/t-tithe-plate.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2405,7 +2405,7 @@ a:hover {
 }
 
 .fi-section {
-  background-image: url('../images/khachik-simonian-269941-unsplash.jpg');
+  background-image: url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/khachik-simonian-269941-unsplash.jpg');
   background-position: 50%;
   background-size: cover;
   height: 500px;
@@ -3876,7 +3876,7 @@ html.w-mod-js [data-ix="dropdown-list"] {
   }
 
   .benefits-section {
-    background-image: linear-gradient(257deg, #ffffff78, #ffffffde), url('../images/kid-children-cancer-oncology-leukemia.jpg');
+    background-image: linear-gradient(257deg, #ffffff78, #ffffffde), url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/kid-children-cancer-oncology-leukemia.jpg');
     background-position: 0 0, 40% 0;
     flex-direction: column;
     padding-top: 0;
@@ -3894,7 +3894,7 @@ html.w-mod-js [data-ix="dropdown-list"] {
   }
 
   .benefits-section-2 {
-    background-image: linear-gradient(#0065a7b0, #0065a7b0), url('../images/https___specials-images.forbesimg.com_dam_imageserve_979886222_960x0-1.png');
+    background-image: linear-gradient(#0065a7b0, #0065a7b0), url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/https___specials-images.forbesimg.com_dam_imageserve_979886222_960x0-1.png');
     background-position: 0 0, 50%;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
@@ -3955,7 +3955,7 @@ html.w-mod-js [data-ix="dropdown-list"] {
   }
 
   .benefits-section-3 {
-    background-image: linear-gradient(#ffffffb8, #ffffffb8), url('../images/volunteering.jpg');
+    background-image: linear-gradient(#ffffffb8, #ffffffb8), url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/volunteering.jpg');
     background-position: 0 0, 50% 0;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
