@@ -316,7 +316,6 @@ a:hover {
 }
 
 .hero-slide {
-  background-image: url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/famille_programmeaide.jpg');
   background-position: 100%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -390,7 +389,6 @@ a:hover {
 .footer {
   color: #fff;
   background-color: #2d3033;
-  background-image: url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/Footer-image.jpg');
   background-position: 50% 90%;
   list-style-type: decimal;
 }
@@ -496,7 +494,6 @@ a:hover {
 
 ._2-col-section-col-right {
   background-color: #d4d4d4;
-  background-image: url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/Footer-image.jpg');
   background-position: 50% 80%;
   background-size: cover;
   height: auto;
@@ -819,7 +816,6 @@ a:hover {
 }
 
 .image-section {
-  background-image: url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/Foto-3.jpg');
   background-position: 134px 0;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1254,7 +1250,6 @@ a:hover {
 .financialdiv {
   opacity: 1;
   background-color: #fff;
-  background-image: url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/Estate--Retirement.png');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1262,7 +1257,6 @@ a:hover {
 }
 
 .financialdiv.tax {
-  background-image: url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/Finance--Tax-Blue.jpg');
   background-position: 100%;
   background-size: cover;
   height: 750px;
@@ -2335,7 +2329,6 @@ a:hover {
 }
 
 .scenario-image._3 {
-  background-image: url('https://res.cloudinary.com/du0witbcr/image/upload/foundation-innovations/t-tithe-plate.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
